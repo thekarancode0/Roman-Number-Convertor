@@ -2,10 +2,10 @@
 A simple and interactive web application that converts decimal numbers (1-3999) to Roman numerals. This project demonstrates the use of HTML, CSS, and JavaScript to build a user-friendly and functional tool.
 
 Features:
-Number Input: Enter any number between 1 and 3999 to convert it to Roman numerals.
-Real-Time Conversion: Displays the converted Roman numeral instantly after clicking the 'Convert' button or pressing Enter.
-Input Validation: Ensures users enter valid numbers and provides feedback if the input is out of range or invalid.
-Responsive Design: The user interface is mobile-friendly and adapts to different screen sizes.
+Number Input: Enter any number between 1 and 3999 to convert it to Roman numerals.<br>
+Real-Time Conversion: Displays the converted Roman numeral instantly after clicking the 'Convert' button or pressing Enter.<br>
+Input Validation: Ensures users enter valid numbers and provides feedback if the input is out of range or invalid.<br>
+Responsive Design: The user interface is mobile-friendly and adapts to different screen sizes.<br>
 Technologies Used:
 HTML: Structure of the web page and user inputs.
 CSS: Styling the layout, ensuring a clean and responsive design.
